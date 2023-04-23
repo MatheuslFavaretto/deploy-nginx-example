@@ -5,8 +5,8 @@
 ![argo_logo_icon_247561](https://user-images.githubusercontent.com/116848225/233849185-bef5ce15-3743-452f-a136-e6d07e766e45.png)
 
 
-## Este repositório contém informações sobre como usar o ArgoCD, uma ferramenta de entrega contínua (CD) para Kubernetes.
-Instalação
+Este repositório contém informações sobre como usar o ArgoCD, uma ferramenta de entrega contínua (CD) para Kubernetes.
+##Instalação
 
 ### Para instalar o ArgoCD, você pode seguir estas etapas:
 
