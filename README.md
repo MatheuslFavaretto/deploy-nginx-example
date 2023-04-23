@@ -1,5 +1,8 @@
 # Deploy de uma Aplicação nginx com Argocd
 
+![github_original_wordmark_logo_icon_146506](https://user-images.githubusercontent.com/116848225/233849163-de53febc-5f3d-429d-a6c1-abbea6ab73ed.png)
+![folder_type_minikube_icon_129889](https://user-images.githubusercontent.com/116848225/233849176-205eeed9-c9ee-4033-afea-d5b6cee7a35b.png)
+![argo_logo_icon_247561](https://user-images.githubusercontent.com/116848225/233849185-bef5ce15-3743-452f-a136-e6d07e766e45.png)
 
 
 ## Este repositório contém informações sobre como usar o ArgoCD, uma ferramenta de entrega contínua (CD) para Kubernetes.
